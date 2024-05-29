@@ -14,7 +14,7 @@ Se puedieron realizar todos sin ningun contratiempo espero puedan revisarlos
 2. **Parte_2_Ejecutables_Tareas_Automaticas**
    - Descripción: Archivos relacionados con la ejecución de tareas automáticas.
    - el Archivo README.md , estan los detalles del funcionamiento del mismo
-   - se entrega el archivo  ✨.bat cn la logica del funcionamiento
+   - se entrega el archivo  ✨.bat con la logica del funcionamiento
 
 3. **Parte_3_Desarrollo_Nativo_php**
    - Descripción: Archivos relacionados con el desarrollo nativo en PHP.
