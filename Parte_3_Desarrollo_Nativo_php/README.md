@@ -83,7 +83,7 @@ Este sistema de autenticación proporciona una funcionalidad básica pero esenci
    - Inicia tu servidor web local desde el panel de control (por ejemplo, XAMPP o WAMP).
 
 6. **Navegar a la Aplicación**:
-   - Abre un navegador web e ingresa la URL `http://localhost/tu_ruta_al_proyecto/index.php` en la barra de direcciones, donde `tu_ruta_al_proyecto` es la ubicación donde has colocado el proyecto en tu servidor local.
+   - Abre un navegador web e ingresa la URL `http://localhost/index.php` en la barra de direcciones, donde `tu_ruta_al_proyecto` es la ubicación donde has colocado el proyecto en tu servidor local.
 
 7. **Registrarse y Iniciar Sesión**:
    - Una vez en la página principal, puedes registrarte como nuevo usuario o iniciar sesión si ya tienes una cuenta.
