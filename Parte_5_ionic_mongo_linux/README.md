@@ -74,7 +74,7 @@ Para ejecutar la aplicación, sigue estos pasos:
 1. **Iniciar el Backend**:
    - Navega a la carpeta del backend.
    - Ejecuta `sudo node server.js` para iniciar el servidor.
-   - Asegúrate de que el servidor esté corriendo correctamente en `http://localhost:3000`.
+   - Asegúrate de que el servidor esté corriendo correctamente en `http://localhost:8100/products`.
 
 2. **Iniciar el Frontend**:
    - debes iniciar el proyecto con los paquetes `sudo npm i` asi se instalan todos los paquetes
