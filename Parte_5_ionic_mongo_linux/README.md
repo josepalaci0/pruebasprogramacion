@@ -29,7 +29,7 @@ Una vez que hayas configurado e iniciado tanto el backend como el frontend, pued
 
 ### Visualización de Productos
 
-1. Abre tu navegador y navega a `http://localhost:8100`.
+1. Abre tu navegador y navega a `(http://localhost:8100/products)`.
 2. Deberías ver una lista de productos que han sido cargados desde la base de datos MongoDB.
 3. Si no hay productos en la base de datos, la lista estará vacía.
 
