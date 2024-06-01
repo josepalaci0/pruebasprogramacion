@@ -19,7 +19,11 @@ Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
    ```bash
    git clone https://github.com/josepalaci0/appionic.git
 
-  
+## Importante 
+
+1. El Proyecto funciona con un sistema API-HTTP, debes arrancar el Frontend y el backend , por separado en diferentes puertos.
+2. se toma encuenta , que se trabajara con typeScript, y se debe comprender en un nivel basico el funcinamiento de Node js. 
+3. se tiene presente  , que debes  manejar la consola de linux, para poder arrancar  completo en linux y mongoDB. 
 
 Una vez que hayas configurado e iniciado tanto el backend como el frontend, puedes interactuar con la aplicación siguiendo estos pasos:
 
