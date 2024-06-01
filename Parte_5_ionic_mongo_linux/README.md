@@ -72,13 +72,14 @@ Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes 
 Para ejecutar la aplicación, sigue estos pasos:
 
 1. **Iniciar el Backend**:
-   - Navega a la carpeta del backend.
+   - Navega a la carpeta del backend  `cd backend`.
    - Ejecuta `sudo node server.js` para iniciar el servidor.
    - Asegúrate de que el servidor esté corriendo correctamente en `http://localhost:8100/products`.
 
 2. **Iniciar el Frontend**:
+   
+   - Navega a la carpeta del frontend  `cd appionic`.
    - debes iniciar el proyecto con los paquetes `sudo npm i` asi se instalan todos los paquetes
-   - Navega a la carpeta del frontend.
    - Ejecuta `sudo ionic serve` para iniciar la aplicación Ionic.
    - Abre tu navegador y navega a `http://localhost:8100` para ver la aplicación en funcionamiento.
 
