@@ -80,10 +80,10 @@ Este sistema de autenticación proporciona una funcionalidad básica pero esenci
    - Actualiza las credenciales de conexión (nombre de host, nombre de usuario, contraseña y nombre de la base de datos) con los valores correspondientes de tu entorno.
 
 5. **Iniciar el Servidor Web**:
-   - Inicia tu servidor web local desde el panel de control (por ejemplo, XAMPP o WAMP).
+   - Inicia tu servidor web local desde el panel de control (por ejemplo, XAMPP o WAMP).`php -S localhost:8000`
 
 6. **Navegar a la Aplicación**:
-   - Abre un navegador web e ingresa la URL `http://localhost/index.php` en la barra de direcciones, donde `tu_ruta_al_proyecto` es la ubicación donde has colocado el proyecto en tu servidor local.
+   - Abre un navegador web e ingresa la URL `http://localhost/index.php` en la barra de direcciones, donde `index.php` es la ubicación donde has colocado el proyecto en tu servidor local.
 
 7. **Registrarse y Iniciar Sesión**:
    - Una vez en la página principal, puedes registrarte como nuevo usuario o iniciar sesión si ya tienes una cuenta.
