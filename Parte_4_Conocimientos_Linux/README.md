@@ -4,13 +4,15 @@ En este documento, explicaremos cómo crear y ejecutar un script en Bash para in
 
 ## Paso 1: Crear un archivo con extencion .sh
 
-Guarde el script en un archivo con extensión `.sh`, por ejemplo, `mongo_script.sh`.
+Guarde el script en un archivo con extensión `.sh`, por ejemplo, `nano mongo_script.sh`.
 
 ## Paso 2: Dar permisos de ejecución al script
 
 Abra una terminal y navegue hasta el directorio donde se encuentra el script. Luego, ejecute el siguiente comando para dar permisos de ejecución al script:  `chmod +x mongo_script.sh`
 
 ## Paso 3: Copie y pegue el siguiente codigo
+
+## paso 4 Ejecuta el script** con `./script_mongodb.sh`.
 
 ```bash
 
