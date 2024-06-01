@@ -59,13 +59,13 @@ Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes 
 
 1. **Node.js**: Asegúrate de tener Node.js instalado en tu sistema. Puedes descargarlo e instalarlo desde [nodejs.org](https://nodejs.org/).
 2. **MongoDB**: Necesitarás tener MongoDB instalado y en ejecución. Puedes descargarlo e instalarlo desde [mongodb.com](https://www.mongodb.com/). También puedes usar un servicio de base de datos en la nube como MongoDB Atlas.
-3. **Dependencias del Backend**: Navega a la carpeta del backend y ejecuta `npm install` para instalar las dependencias necesarias.
+3. **Dependencias del Backend**: Navega a la carpeta del backend y ejecuta `sudo npm install` para instalar las dependencias necesarias.
 
 ### Requisitos del Frontend
 
 1. **Node.js**: Asegúrate de tener Node.js instalado en tu sistema (mismo que para el backend).
-2. **Ionic CLI**: Instala la Ionic CLI globalmente ejecutando `npm install -g @ionic/cli`.
-3. **Dependencias del Frontend**: Navega a la carpeta del frontend y ejecuta `npm install` para instalar las dependencias necesarias.
+2. **Ionic CLI**: Instala la Ionic CLI globalmente ejecutando `sudo npm install -g @ionic/cli`.
+3. **Dependencias del Frontend**: Navega a la carpeta del frontend y ejecuta `sudo npm install` para instalar las dependencias necesarias.
 
 ### Ejecución
 
@@ -73,12 +73,13 @@ Para ejecutar la aplicación, sigue estos pasos:
 
 1. **Iniciar el Backend**:
    - Navega a la carpeta del backend.
-   - Ejecuta `node server.js` para iniciar el servidor.
+   - Ejecuta `sudo node server.js` para iniciar el servidor.
    - Asegúrate de que el servidor esté corriendo correctamente en `http://localhost:3000`.
 
 2. **Iniciar el Frontend**:
+   - debes iniciar el proyecto con los paquetes `sudo npm i` asi se instalan todos los paquetes
    - Navega a la carpeta del frontend.
-   - Ejecuta `ionic serve` para iniciar la aplicación Ionic.
+   - Ejecuta `sudo ionic serve` para iniciar la aplicación Ionic.
    - Abre tu navegador y navega a `http://localhost:8100` para ver la aplicación en funcionamiento.
 
 
